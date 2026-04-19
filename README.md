@@ -14,9 +14,9 @@ Esta calculadora foi desenvolvida em Java para realizar operações matemáticas
 
 ## Manual do Usuário
 
-**Comando no PowerShell:** `.\calcular`
+**Comando no PowerShell:** `calcular`
 
-1. Digite `.\calcular` no PowerShell.
+1. Digite `calcular` no PowerShell.
 2. Digite o primeiro número.
 3. Digite o segundo número.
 4. Escolha a operação desejada.
