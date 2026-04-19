@@ -14,9 +14,9 @@ Esta calculadora foi desenvolvida em Java para realizar operações matemáticas
 
 ## Manual do Usuário
 
-1. Execute a classe `CalculadoraInterface.java`.
+1. Abra a classe `CalculadoraInterface.java`.
 2. Digite o primeiro número.
 3. Digite o segundo número.
 4. Escolha a operação desejada.
-5. Clique em `Calcular` para ver o resultado.
+5. Clique em `Calcular` para calcular.
 6. Clique em `Limpar` para fazer uma nova conta.
