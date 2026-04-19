@@ -10,15 +10,22 @@
 
 ## Resumo
 
-Esta calculadora foi desenvolvida em Java para realizar operações matemáticas básicas. O programa permite fazer soma, subtração, multiplicação e divisão de dois números, com tratamento para evitar divisão por zero.
+Calculadora feita em Java para realizar soma, subtração, multiplicação e divisão. O projeto possui uma tela simples e também mantém uma versão para uso pelo terminal.
 
-## Manual do Usuário
+## Como usar
 
 **Comando no PowerShell:** `calcular`
 
 1. Digite `calcular` no PowerShell.
-2. Digite o primeiro número.
-3. Digite o segundo número.
-4. Escolha a operação desejada.
+2. Informe o primeiro número.
+3. Informe o segundo número.
+4. Escolha a operação.
 5. Clique em `Calcular`.
-6. Clique em `Limpar` para fazer uma nova conta.
+6. Use `Limpar` para fazer outra conta.
+
+## Organização
+
+- `src/poo/Numero.java`: operações da calculadora.
+- `src/poo/CalculadoraInterface.java`: tela da calculadora.
+- `src/poo/CalculadoraTerminal.java`: versão pelo terminal.
+- `docs`: arquivos em PDF do projeto.
