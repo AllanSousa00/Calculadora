@@ -10,13 +10,13 @@
 
 ## Resumo
 
-Esta calculadora foi desenvolvida em Java para realizar operações matemáticas básicas no terminal. O programa permite fazer soma, subtração, multiplicação e divisão de dois números, com tratamento para evitar divisão por zero.
+Esta calculadora foi desenvolvida em Java para realizar operações matemáticas básicas. O programa permite fazer soma, subtração, multiplicação e divisão de dois números, com tratamento para evitar divisão por zero.
 
 ## Manual do Usuário
 
-1. Execute a classe principal `teste.java`.
-2. Escolha a operação desejada no menu.
-3. Digite o primeiro número.
-4. Digite o segundo número.
-5. Veja o resultado exibido na tela.
-6. Para encerrar, digite `0` no menu inicial.
+1. Execute a classe `CalculadoraInterface.java`.
+2. Digite o primeiro número.
+3. Digite o segundo número.
+4. Escolha a operação desejada.
+5. Clique em `Calcular` para ver o resultado.
+6. Clique em `Limpar` para fazer uma nova conta.
