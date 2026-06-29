@@ -41,7 +41,7 @@ Desenvolvido por **Allan da Cruz Sousa** e **Paulo Gabriel**.
 
 ## License
 
-Os direitos de uso estão no arquivo [LICENSE](LICENSE).
+A licença está no arquivo [LICENSE](LICENSE).
 
 Para solicitar autorização de uso:
 
