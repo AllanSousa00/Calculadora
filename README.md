@@ -39,9 +39,9 @@ Abra o PowerShell nesta pasta e execute:
 
 Desenvolvido por **Allan da Cruz Sousa** e **Paulo Gabriel**.
 
-## Direitos de uso
+## License
 
-Os direitos do projeto ficam descritos no arquivo `LICENSE`.
+Os direitos de uso estão no arquivo [LICENSE](LICENSE).
 
 Para solicitar autorização de uso:
 
