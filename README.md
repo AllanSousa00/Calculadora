@@ -1,13 +1,20 @@
 # Calculadora
 
-**Escola:** ECIT Márcia Guedes Alconforado de Carvalho  
-**Data:** 19/06/2026  
-**Alunos:** Allan da Cruz Sousa e Paulo Gabriel  
-**Curso:** Informática
+Calculadora feita em Java com interface gráfica.
 
-## Resumo
+## Código principal
 
-Calculadora feita em Java com interface gráfica. Ela realiza operações básicas e mostra uma tela de planos antes de liberar o resultado.
+- `CalculadoraInterface.java`: monta a janela, o visor, os botões e a tela dos planos.
+- `Numero.java`: faz as operações matemáticas.
+- `calcular.cmd`: compila e abre o programa.
+
+## Como rodar
+
+Abra o PowerShell nesta pasta e execute:
+
+```powershell
+.\calcular.cmd
+```
 
 ## O que ela faz
 
@@ -19,23 +26,14 @@ Calculadora feita em Java com interface gráfica. Ela realiza operações básic
 - Troca de sinal
 - Apaga o último número
 - Limpa a conta
-- Mostra uma tela de planos
+- Mostra uma tela de planos antes de liberar o resultado
 
-## Como usar
+## Dados do trabalho
 
-Abra o PowerShell na pasta do projeto e rode:
-
-```powershell
-.\calcular.cmd
-```
-
-Depois é só usar os botões da calculadora.
-
-## Arquivos
-
-- `CalculadoraInterface.java`: monta a janela, os botões, o visor e a tela dos planos.
-- `Numero.java`: guarda as operações matemáticas.
-- `calcular.cmd`: compila e abre o programa.
+**Escola:** ECIT Márcia Guedes Alconforado de Carvalho  
+**Data:** 19/06/2026  
+**Curso:** Informática  
+**Alunos:** Allan da Cruz Sousa e Paulo Gabriel
 
 ## Créditos
 
@@ -44,3 +42,7 @@ Desenvolvido por **Allan da Cruz Sousa** e **Paulo Gabriel**.
 ## Direitos de uso
 
 Os direitos do projeto ficam descritos no arquivo `LICENSE`.
+
+Para solicitar autorização de uso:
+
+[https://portal-de-direitos-calculadora.pages.dev/](https://portal-de-direitos-calculadora.pages.dev/)
